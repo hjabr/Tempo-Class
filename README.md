@@ -2,7 +2,7 @@
 
  
    Tempo - a simple PHP class for rendering PHP templates
-   
+   <br><br>
    Created by Hesham Jabr<br>
-   email: info@jabr.dev
-   website: www.jabr.dev
+   Email: info@jabr.dev<br>
+   Website: www.jabr.dev
