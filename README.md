@@ -1,4 +1,4 @@
-# Tempo-Class
+# Tempo-class
 
  
    Tempo - a simple PHP class for rendering PHP templates
