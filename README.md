@@ -1,6 +1,5 @@
 # Tempo-Class
 
-/**
  * 
  *   Tempo - a simple PHP class for rendering PHP templates
  * 
@@ -8,4 +7,3 @@
  *   email: info@jabr.dev
  *   website: www.jabr.dev
  * 
- */
