@@ -1,1 +1,5 @@
 Hello {[::name::]}!
+
+<!-- Hi {[::name1::]} <br /> -->
+<!-- Good day {[::name2::]} <br /> -->
+<!-- Good morning {[::name3::]} <br /> -->
