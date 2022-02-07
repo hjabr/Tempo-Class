@@ -1,5 +1,16 @@
 <?php
 
+/**
+ * 
+ *   Tempo - a simple PHP class for rendering PHP templates
+ * 
+ *   Developed by Hesham Jabr
+ *   email: info@jabr.dev
+ *   website: www.jabr.dev
+ * 
+ */
+
+
 // include Tempo class
 require_once "tempo.class.php";
 
