@@ -17,6 +17,10 @@ try {
         // $name2 = "Hesham Jabr";
         // $name3 = "Hesham Jabr";
 
+        
+        // ./tempo - folder path
+        // home - 'home.tempo' file in 'tempo' folder path
+        
         $temp = new Tempo("./tempo","home");
         $temp->set("name", $name);
         // $temp->set("name1", $name1);
